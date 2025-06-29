@@ -18,7 +18,7 @@ This dashboard provides a detailed analysis of HR metrics such as attrition rate
 ## 📁 Files
 - `Dashboard_preview.png`: Visual preview of the dashboard
 - `HR Analytics Data.xlsx`: Raw data used for analysis
-- `hr_dashboard.twbx`: Tableau workbook
+- `HR ANALYTICS DASHBAORD.twbx`: Tableau workbook
 - `README.md`: This documentation
 
 ## 📌 Author
